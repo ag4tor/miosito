@@ -1,0 +1,35 @@
+{
+    "config":[
+        {"icon":"fa fa-home","url":"home"},
+        {"icon":"fa fa-list","url":"catalog"},
+        {"icon":"fa fa-envelope","url":"contacts"},
+        {"icon":"fa fa-linkedin","url":"http://www.linkedin.com/"}
+
+    ],
+    "catalog":[
+        {
+            "id":1,
+            "address":"via di test 1",
+            "city":"Crotone",
+            "title":"la cascina"
+        },
+        {
+            "id":2,
+            "address":"via di test 2",
+            "city":"Crotone",
+            "title":"BnB da Nasone"
+        },
+        {
+            "id":3,
+            "address":"via di test 3",
+            "city":"Torino",
+            "title":"la Mangiatoia"
+        },
+        {
+            "id":4,
+            "address":"via di test 4",
+            "city":"Milano",
+            "title":"la casa di Luca Sibilla"
+        }
+    ]
+}
