@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/miosito/static/css/main.87d868bf.css",
-    "main.js": "/miosito/static/js/main.8e2b0df4.js",
+    "main.js": "/miosito/static/js/main.d501bb32.js",
     "static/js/787.f055211e.chunk.js": "/miosito/static/js/787.f055211e.chunk.js",
     "index.html": "/miosito/index.html",
     "main.87d868bf.css.map": "/miosito/static/css/main.87d868bf.css.map",
-    "main.8e2b0df4.js.map": "/miosito/static/js/main.8e2b0df4.js.map",
+    "main.d501bb32.js.map": "/miosito/static/js/main.d501bb32.js.map",
     "787.f055211e.chunk.js.map": "/miosito/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87d868bf.css",
-    "static/js/main.8e2b0df4.js"
+    "static/js/main.d501bb32.js"
   ]
 }
